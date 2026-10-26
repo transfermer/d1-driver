@@ -6,8 +6,8 @@ pages_build_output_dir = "public"
 # After `wrangler d1 create d1-drive`, paste the printed database_id here.
 [[d1_databases]]
 binding = "DB"
-database_name = "d1-drive"
-database_id = "REPLACE_WITH_YOUR_DATABASE_ID"
+database_name = "zdrive-db"
+database_id = "d0bfb9c0-09f6-4281-8abf-8caee9e51998"
 
 # ── Optional HTTP Basic auth for BOTH the web UI API and WebDAV ────
 # Set these as secret env vars instead if you prefer:
